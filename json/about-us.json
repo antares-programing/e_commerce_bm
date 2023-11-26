@@ -13,24 +13,27 @@
       },
       {
         "nombre": "Bruno Mendez",
-        "descripcion": "Desarrollador web con un enfoque en el desarrollo de aplicaciones web escalables y de alto rendimiento.",
-        "experiencia": "Trabajó como desarrollador full-stack en Tech Innovators durante 5 años. Lideró proyectos de desarrollo web para empresas líderes en tecnología.",
+        "descripcion": "Soy analista de soporte desde hace 6 años, dando soporte a usuarios finales con diversos problemas de hardware y software, realice tareas relacionadas con el matenimiento de cuartos de servidores, estudie 3 años en dos carreras de testing y actualmente estoy ampliando mis horizontes enfocandome en el desarrollo frontend",
+        "experiencia": "Trabaja como analista de soporte en TCS desde hace 6 años.",
         "imagen": "img/about-us-bmendez.png",
         "estudios": [
-          "Licenciatura en Ciencias de la Computación en la Universidad 123",
-          "Certificado en Desarrollo de Aplicaciones Web en la Escuela de Tecnología XYZ",
-          "Diploma en Programación Avanzada en línea"
+          "Animacion y Modelado 3D y 2D en A+ escuela de artes visuales",
+          "Desarrollo web frontend en JAP",
+          "Testing funcional en Forge y CES",
+          "Operador Windows en BIOS",
+          "Bachillerato tecnologico UTU"
         ]
       },
       {
         "nombre": "Bruno Moreira",
-        "descripcion": "Diseñador web y desarrollador front-end con pasión por la creación de experiencias de usuario intuitivas y atractivas.",
-        "experiencia": "Trabajó como diseñador web en Creative Designs Studio durante 3 años. Diseñó y desarrolló sitios web creativos y atractivos.",
+        "descripcion": "Soy Analista de TI, dando soporte a usuarios interno y externo de la empresa que tienen problemas con hardware y software, ABM de usuarios, mantenimiento y administracion de redes",
+        "experiencia": "Trabajo de Analista de TI hace 3 años, 1 año en MVTOMA y 2 años en GEOCOM",
         "imagen": "img/about-us-bmoreira.png",
         "estudios": [
-          "Diploma en Diseño Gráfico en la Escuela de Diseño ABC",
-          "Curso de Desarrollo Front-End en la Escuela de Tecnología XYZ",
-          "Certificado en Diseño de Experiencia de Usuario (UX) en línea"
+          "Desarrollo web frontend en JAP",
+          "Curso de SQL Server",
+          "Tecnico en redes e IT",
+          "Bachillerato cientifico"
         ]
       },
       {
@@ -46,35 +49,36 @@
       },
       {
         "nombre": "German Kroger",
-        "descripcion": "Desarrollador full-stack con experiencia en la creación de aplicaciones web escalables y sistemas de gestión de contenido.",
-        "experiencia": "Trabajó como desarrollador full-stack en Tech Solutions Inc. durante 6 años. Diseñó y desarrolló sistemas de gestión de contenido personalizados.",
+        "descripcion": "desarrollador de software con enfoque Front-End. He aprendido los fundamentos de programación con JavaScript y Python. Asimismo, poseo experiencia en el desarrollo Back-end con el framework Django",
+        "experiencia": "",
         "imagen": "img/about-us-gkroger.png",
         "estudios": [
-          "Licenciatura en Ingeniería Informática en la Universidad XYZ",
-          "Curso de Desarrollo Full-Stack en la Escuela de Tecnología ABC",
-          "Diploma en Seguridad Informática en línea"
+          "Desarrollo web frontend en JAP",
+          "Desarrollador en Python y Django en coursera",
+          "Programación PHP en BIOS",
+          "Bachillerato tecnológico UTU"
         ]
       },
       {
         "nombre": "Ivan Pereira",
-        "descripcion": "Diseñador de experiencia de usuario (UX) con habilidades en diseño de interfaces atractivas y usables.",
-        "experiencia": "Trabajó como diseñador UX en User-Centered Designs Agency durante 4 años. Diseñó interfaces de usuario intuitivas para aplicaciones móviles y web.",
+        "descripcion": "Desarrollador web, orientado en Front-End. Con conocimiento en HTML, Css y JavaScript",
+        "experiencia": "Data Entry y Soporte Tecnico en ClicRural. Manejo de Bases de datos",
         "imagen": "img/about-us-ipereira.png",
         "estudios": [
-          "Licenciatura en Diseño de Interacción en la Universidad 123",
-          "Curso de Diseño de Interfaces de Usuario en la Escuela de Diseño XYZ",
-          "Certificado en Psicología de la Interacción en línea"
+          "Desarrollo web Front- End en JAP",
+          "Bachillerato cientifico",
+          "Facultad de Ingenieria - Analista de Datos 1º Año"
         ]
       },
       {
         "nombre": "Rocio De Brun",
-        "descripcion": "Desarrolladora web full-stack con experiencia en el desarrollo de aplicaciones web complejas y sistemas de gestión de contenido.",
-        "experiencia": "Trabajó como desarrolladora full-stack en WebTech Solutions durante 5 años. Lideró proyectos de desarrollo web para clientes corporativos.",
+        "descripcion": "Con 6 años de experiencia en atención al cliente y gestión de redes sociales, he perfeccionado mis habilidades en resolución de problemas y la interacción efectiva con los usuarios. Actualmente estoy ampliando mis habilidades en desarrollo frontend.",
+        "experiencia": "Trabajó como Social Media Agent en PedidosYa durante 5 años",
         "imagen": "img/about-us-rdebrun.png",
         "estudios": [
-          "Licenciatura en Ciencias de la Computación en la Universidad ABC",
-          "Diploma en Desarrollo Web Full-Stack en la Escuela de Tecnología XYZ",
-          "Certificado en Administración de Proyectos Ágiles en línea"
+          "Desarrollo web, JAP",
+          "Testing QA Manual, CoderHouse",
+          "Abogacía-Notariado, UDELAR"
         ]
       }
     ]
